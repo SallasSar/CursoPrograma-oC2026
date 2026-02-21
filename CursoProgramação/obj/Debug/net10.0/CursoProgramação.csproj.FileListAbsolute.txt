@@ -1,0 +1,14 @@
+C:\Users\Aluno\source\repos\CursoProgramação\CursoProgramação\obj\Debug\net10.0\CursoProgramação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\CursoProgramação\CursoProgramação\obj\Debug\net10.0\CursoProgramação.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\CursoProgramação\CursoProgramação\obj\Debug\net10.0\CursoProgramação.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\CursoProgramação\CursoProgramação\obj\Debug\net10.0\CursoProgramação.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\CursoProgramação\CursoProgramação\bin\Debug\net10.0\CursoProgramação.exe
+C:\Users\Aluno\source\repos\CursoProgramação\CursoProgramação\bin\Debug\net10.0\CursoProgramação.deps.json
+C:\Users\Aluno\source\repos\CursoProgramação\CursoProgramação\bin\Debug\net10.0\CursoProgramação.runtimeconfig.json
+C:\Users\Aluno\source\repos\CursoProgramação\CursoProgramação\bin\Debug\net10.0\CursoProgramação.dll
+C:\Users\Aluno\source\repos\CursoProgramação\CursoProgramação\bin\Debug\net10.0\CursoProgramação.pdb
+C:\Users\Aluno\source\repos\CursoProgramação\CursoProgramação\obj\Debug\net10.0\CursoProgramação.dll
+C:\Users\Aluno\source\repos\CursoProgramação\CursoProgramação\obj\Debug\net10.0\refint\CursoProgramação.dll
+C:\Users\Aluno\source\repos\CursoProgramação\CursoProgramação\obj\Debug\net10.0\CursoProgramação.pdb
+C:\Users\Aluno\source\repos\CursoProgramação\CursoProgramação\obj\Debug\net10.0\CursoProgramação.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\CursoProgramação\CursoProgramação\obj\Debug\net10.0\ref\CursoProgramação.dll
